@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chua Yong Qi
+- 👋 Hi, I’m Waverly Chua
 - 👀 I’m interested in Coding, Robots
 - 🌱 I’m currently learning Computer Networking and Security 
 - 📫 www.linkedin.com/in/chua-yong-qi-
